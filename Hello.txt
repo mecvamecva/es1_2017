@@ -1,5 +1,6 @@
 Olá mundo!
 Olá do master após o merge!
+Olá do hotfix após o merge!
 Olá do hotfix!
 Mais um olá do hotfix!
 Olá Márcio!
