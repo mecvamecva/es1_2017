@@ -1,5 +1,6 @@
 Olá mundo!
 Olá do hotfix!
+Mais um olá do hotfix!
 Olá Márcio!
 Olá de novo!
 Olá Daniel!
